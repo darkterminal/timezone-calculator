@@ -3,7 +3,7 @@ Get the timezone from your origin to target timezone
 
 ### Install
 ```bash
-npm install @darkterminal/time-calculator
+npm install time-calculator
 ```
 
 ### License
