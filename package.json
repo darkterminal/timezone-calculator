@@ -1,0 +1,27 @@
+{
+  "name": "timezone-calculator",
+  "version": "1.0.0",
+  "description": "Timezone calculator for noob!",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkterminal/timezone-calculator.git"
+  },
+  "keywords": [
+    "moment",
+    "date-fns",
+    "timezone-calculator"
+  ],
+  "author": "Imam Ali Mustofa <darkterminal@duck.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/darkterminal/timezone-calculator/issues"
+  },
+  "homepage": "https://github.com/darkterminal/timezone-calculator#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
